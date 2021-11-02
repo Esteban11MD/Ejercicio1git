@@ -3,11 +3,10 @@ Vancouver
 Toronto
 Calgary
 Montreal
-<<<<<<< HEAD
 Edmonton
 Quebec
 Hamilton
 Kitchener
-=======
 Edmonton
->>>>>>> 1c827f4b15ce49a3cf50e2ec872be97fb221d15b
+ciudades nuevas
+
